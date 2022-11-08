@@ -8,10 +8,6 @@ node_modules
 .docusaurus
 .cache-loader
 
-# External
-/external/*
-!/external/.keep
-
 # Yarn
 .pnp.*
 .yarn/*
