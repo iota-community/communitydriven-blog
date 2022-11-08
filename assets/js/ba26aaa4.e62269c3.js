@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[5441],{7073:e=>{e.exports=JSON.parse('{"permalink":"/communitydriven-blog/page/2","page":2,"postsPerPage":10,"totalPages":3,"totalCount":26,"previousPage":"/communitydriven-blog/","nextPage":"/communitydriven-blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

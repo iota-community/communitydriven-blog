@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[7642],{5529:s=>{s.exports=JSON.parse('{"label":"Consensus","permalink":"/communitydriven-blog/tags/consensus","allTagsPath":"/communitydriven-blog/tags","count":4}')}}]);

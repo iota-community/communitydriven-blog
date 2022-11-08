@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[5301],{4830:a=>{a.exports=JSON.parse('{"label":"Tangle","permalink":"/communitydriven-blog/tags/tangle","allTagsPath":"/communitydriven-blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[5842],{6771:a=>{a.exports=JSON.parse('{"label":"OTV","permalink":"/communitydriven-blog/tags/otv","allTagsPath":"/communitydriven-blog/tags","count":1}')}}]);

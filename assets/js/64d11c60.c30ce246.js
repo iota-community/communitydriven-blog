@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[2110],{8220:e=>{e.exports=JSON.parse('{"label":"Metaverse","permalink":"/communitydriven-blog/tags/metaverse","allTagsPath":"/communitydriven-blog/tags","count":1}')}}]);
